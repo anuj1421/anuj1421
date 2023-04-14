@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anuj1421
+- 👋 Hi, I’m Anuj kumar yadav
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python advance
 - 💞️ I’m looking to collaborate on  an internship
